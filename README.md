@@ -8,5 +8,7 @@ Green = 2
 ## Encoding
 All it really does, is convert the text to trinary, create an image, then it puts the green, white and black pixels in order on the image, using python pillow. 
 ## Examples
-<img src="examples/ztcode.png" height=100px>
-The image above is an example, that says Hello World! 
+<img src="examples/ztexample.png" height=100px> <img src="examples/ztexample2.png" height=95px>
+
+The first image is an example, that says Hello World!<br>
+The second says Hello, World! This example has longer text. 
